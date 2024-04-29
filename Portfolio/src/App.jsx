@@ -59,7 +59,7 @@ function CardGrid() {
 function Footer(){
   return(
     <footer>
-        <p>&copy; 2024 My Portfolio. All rights reserved.</p>
+        <p>&copy; 2024 ShrutiGupta. All rights reserved.</p>
       </footer>
   );
 }
